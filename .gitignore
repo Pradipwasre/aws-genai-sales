@@ -1,0 +1,7 @@
+.env
+trust.json
+*.zip
+out.json
+payload.json
+lambda/package/
+__pycache__/
